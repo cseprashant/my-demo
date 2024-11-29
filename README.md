@@ -1,2 +1,3 @@
 # my-demo
-This is my first Repository on a Github
+This is my first Git  Repository 
+Author - Prashant Kumar
